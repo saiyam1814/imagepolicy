@@ -1,0 +1,9 @@
+{
+  "imagePolicy": {
+     "kubeConfigFile": "/etc/kubernetes/demo/config",
+     "allowTTL": 50,
+     "denyTTL": 50,
+     "retryBackoff": 500,
+     "defaultAllow": false
+  }
+}
